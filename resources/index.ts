@@ -1,0 +1,1 @@
+export { dynamoDbTable } from "./dynamoDb";
